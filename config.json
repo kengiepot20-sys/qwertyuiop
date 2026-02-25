@@ -1,1 +1,16 @@
-
+{
+  "version": "1.1",
+  "script_url": "",
+  "new_name": "",
+  "news_msg": "",
+  "show_news": false,
+  "maintenance": false,
+  "users": {
+    "testr": {
+      "password": "test",
+      "expiry": "28/03/2026",
+      "device": "test",
+      "sid": "test"
+    }
+  }
+}
