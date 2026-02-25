@@ -2,9 +2,9 @@
   "version": "1.1",
   "script_url": "",
   "new_name": "",
-  "news_msg": "",
-  "show_news": false,
-  "maintenance": false,
+  "news_msg": "yooowww test",
+  "show_news": true,
+  "maintenance": true,
   "users": {
     "testr": {
       "password": "test",
