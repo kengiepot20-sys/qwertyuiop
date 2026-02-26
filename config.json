@@ -4,7 +4,7 @@
   "new_name": "",
   "news_msg": "yooowww test",
   "show_news": true,
-  "maintenance": true,
+  "maintenance": false,
   "users": {
     "testr": {
       "password": "test",
