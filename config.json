@@ -11,6 +11,12 @@
       "expiry": "28/03/2026",
       "device": "test",
       "sid": "test"
+    },
+    "test": {
+      "password": "test",
+      "expiry": "27/02/2026",
+      "device": "1771033509",
+      "sid": "FREE"
     }
   }
 }
