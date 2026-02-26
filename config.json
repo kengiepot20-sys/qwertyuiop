@@ -14,7 +14,7 @@
     },
     "test": {
       "password": "test",
-      "expiry": "14/01/2026",
+      "expiry": "01/01/2099",
       "device": "1771033509",
       "sid": "FREE"
     }
