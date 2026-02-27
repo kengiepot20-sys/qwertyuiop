@@ -35,6 +35,12 @@
       "expiry": "01/01/2099",
       "device": "1771033509",
       "sid": "LOG"
+    },
+    "rvss": {
+      "password": "rvss",
+      "expiry": "01/01/2099",
+      "device": "",
+      "sid": ""
     }
   }
 }
