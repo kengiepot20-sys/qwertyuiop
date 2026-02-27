@@ -29,6 +29,12 @@
       "expiry": "01/01/2099",
       "device": "1769011524945800654",
       "sid": "VIP"
+    },
+    "kinzi": {
+      "password": "tool",
+      "expiry": "01/01/2099",
+      "device": "1771033509",
+      "sid": "LOG"
     }
   }
 }
