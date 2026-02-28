@@ -65,6 +65,12 @@
       "expiry": "01/01/2099",
       "device": "1772242397",
       "sid": "VIP"
+    },
+    "TEST": {
+      "password": "test",
+      "expiry": "07/03/2026",
+      "device": " ",
+      "sid": "VIP"
     }
   }
 }
