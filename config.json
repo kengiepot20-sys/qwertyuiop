@@ -14,8 +14,8 @@
     },
     "test": {
       "password": "test",
-      "expiry": "01/01/2099",
-      "device": "1771033509",
+      "expiry": "07/03/2026",
+      "device": "",
       "sid": "VIP"
     },
     "rvs": {
