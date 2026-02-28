@@ -69,7 +69,7 @@
     "TEST": {
       "password": "test",
       "expiry": "07/03/2026",
-      "device": " ",
+      "device": "",
       "sid": "VIP"
     }
   }
