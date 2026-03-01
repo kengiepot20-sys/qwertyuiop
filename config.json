@@ -77,6 +77,12 @@
       "expiry": "09/03/2026",
       "device": "",
       "sid": "TOOLS"
+    },
+    "KINZICPMCHANNEL": {
+      "password": "joinmychannelformore",
+      "expiry": "09/03/2026",
+      "device": "",
+      "sid": "VIP"
     }
   }
 }
