@@ -71,6 +71,12 @@
       "expiry": "07/03/2026",
       "device": "",
       "sid": "VIP"
+    },
+    "KINZICPMTOOLS": {
+      "password": "jjeishdhhwjw782h7w",
+      "expiry": "09/03/2026",
+      "device": "",
+      "sid": "TOOLS"
     }
   }
 }
