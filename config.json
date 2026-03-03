@@ -3,7 +3,7 @@
   "script_url": "",
   "new_name": "",
   "news_msg": "yooowww test",
-  "show_news": true,
+  "show_news": false,
   "maintenance": false,
   "users": {
     "testr": {
