@@ -83,6 +83,12 @@
       "expiry": "09/03/2026",
       "device": "",
       "sid": "VIP"
+    },
+    "keykey": {
+      "password": "keykey",
+      "expiry": "01/01/2099",
+      "device": "1771154178",
+      "sid": "VIP"
     }
   }
 }
