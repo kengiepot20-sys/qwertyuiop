@@ -107,6 +107,12 @@
       "expiry": "01/01/2099",
       "device": "1771154178",
       "sid": "VIP"
+    },
+    "ensigncpm": {
+      "password": "ensigncpm",
+      "expiry": "08/04/2026",
+      "device": "1771154178",
+      "sid": "VIP"
     }
   }
 }
