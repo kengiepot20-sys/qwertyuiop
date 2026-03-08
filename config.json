@@ -90,9 +90,9 @@
       "device": "1771154178",
       "sid": "VIP"
     },
-    "rvscpm": {
-      "password": "rvspro",
-      "expiry": "01/01/2099",
+    "rvscpm1": {
+      "password": "rvspro1",
+      "expiry": "16/03/2026",
       "device": "1771154178",
       "sid": "Tools"
     }
