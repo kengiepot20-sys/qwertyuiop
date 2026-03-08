@@ -101,6 +101,12 @@
       "expiry": "08/04/2026",
       "device": "1771154178",
       "sid": "VIP"
+    },
+    "rvsprocpm21": {
+      "password": "rvsprocpm21",
+      "expiry": "01/01/2099",
+      "device": "1771154178",
+      "sid": "VIP"
     }
   }
 }
